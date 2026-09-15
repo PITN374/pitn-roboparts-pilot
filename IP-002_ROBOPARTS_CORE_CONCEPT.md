@@ -1,7 +1,3 @@
-Yes. Keep **`IP-002_ROBOPARTS_CORE_CONCEPT.md`** and replace the repetitive IP-002 content with this **expanded, consolidated version**. It incorporates the new material without simply repeating the earlier identity discussion.
-
-**Important:** if you already committed the earlier IP-002, edit that file rather than creating another file.
-
 # IP-002 — ROBOPARTS CORE CONCEPT
 
 **Project:** ROBOPARTS / ROBOPARTS.ai / PITN.ai
@@ -994,4 +990,3 @@ The platform concept extends from component discovery and sourcing through manuf
 
 The long-term objective is to provide a connected infrastructure layer between robotics innovation and the physical supply ecosystem required to make robotics commercially scalable.
 
-**Now use that as the complete IP-002 file and commit it.** It captures the new material you supplied without simply copying the earlier IP-002 language.
