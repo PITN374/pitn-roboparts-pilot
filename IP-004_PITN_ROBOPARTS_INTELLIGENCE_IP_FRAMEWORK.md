@@ -1,5 +1,3 @@
-Absolutely. I would make **IP File 04** distinctly **RoboParts-centered**, while preserving the relationship to **PITN.ai, RoboTraits, and RoboAgentic.ai** as interconnected layers.
-
 # IP FILE 04 — RoboParts.ai
 
 ## Robotics Parts, Infrastructure & Physical Intelligence Layer
