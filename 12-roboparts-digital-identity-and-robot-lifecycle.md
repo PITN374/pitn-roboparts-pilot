@@ -1,7 +1,3 @@
-You're right — I jumped to **09** when you asked for **12**. Sorry about that.
-
-Here is **File 12**, in the same easy cut-and-paste format, with **PITN.ai clearly identified as the original/core IP owner** and RoboParts.ai as secondary/interconnected IP.
-
 # RoboParts.ai — Digital Identity and Robot Lifecycle
 
 ## 1. PURPOSE
@@ -10,7 +6,7 @@ This section defines how a robotic agent can maintain a persistent digital ident
 
 The identity can connect:
 
-```text
+RoboParts.ai
 Robot
  ↓
 Digital Identity
